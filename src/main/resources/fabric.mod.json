@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.github.am230.AxolotlRide"
+      "com.github.am230.axolotl_ride.AxolotlRide"
     ]
   },
   "mixins": [

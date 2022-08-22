@@ -1,9 +1,9 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.github.am230.mixin",
+  "package": "com.github.am230.axolotl_ride.mixin",
   "compatibilityLevel": "JAVA_17",
-  "mixins": [
+  "client": [
     "MixinAxolotl"
   ],
   "injectors": {

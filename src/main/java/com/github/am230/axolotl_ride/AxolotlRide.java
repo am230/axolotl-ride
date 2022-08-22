@@ -1,4 +1,4 @@
-package com.github.am230;
+package com.github.am230.axolotl_ride;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

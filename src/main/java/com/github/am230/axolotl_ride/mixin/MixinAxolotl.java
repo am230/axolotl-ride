@@ -1,4 +1,4 @@
-package com.github.am230.mixin;
+package com.github.am230.axolotl_ride.mixin;
 
 import net.minecraft.entity.AngledModelEntity;
 import net.minecraft.entity.Bucketable;
