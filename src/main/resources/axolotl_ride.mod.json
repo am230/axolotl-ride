@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "axolotl-ride",
+  "version": "${version}",
+
+  "name": "Axolotl Ride",
+  "description": "うぱるぱに乗るようにします",
+  "authors": [
+    "am230"
+  ],
+  "contact": {
+    "homepage": "https://www.youtube.com/channel/UCPtLbhQgwQhZ4iOO5VNJfSw/",
+    "sources": "https://github.com/am230"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/axolotl-ride/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.github.am230.AxolotlRide"
+    ]
+  },
+  "mixins": [
+    "axolotl_ride.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
